@@ -1,0 +1,11 @@
+{
+    "name": "get-tp-name",
+    "version": "1.0.0",
+    "description": "Get an available tp machine name",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "n4n5",
+    "license": "MIT"
+}
